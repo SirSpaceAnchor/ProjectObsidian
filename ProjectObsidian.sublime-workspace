@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"move",
+				"moveInputHorizontal"
+			],
+			[
+				"GetButtonD",
+				"GetButtonDown(string buttonName)\tbool"
+			],
+			[
+				"moveI",
+				"moveInputVertical\tfloat"
+			],
+			[
+				"GetBu",
+				"GetButtonDown"
+			],
+			[
+				"Rigid",
+				"rigidbody2D\tComponent { get; }"
+			],
+			[
+				"GetB",
+				"GetButtonUp(string buttonName)\tbool"
+			],
+			[
+				"Vect",
+				"Vector2"
+			],
+			[
+				"jump",
+				"jumpTime"
+			],
+			[
+				"jumpTime",
+				"jumpTimeCounter"
+			],
+			[
+				"GetButt",
+				"GetButtonDown(string buttonName)\tbool"
+			],
+			[
+				"GetKey",
+				"GetKeyUp(string name)\tbool"
+			],
+			[
+				"jumpT",
+				"jumpTimeCounter"
+			],
+			[
+				"Get",
+				"GetButton(string buttonName)\tbool"
+			],
+			[
+				"RawInput",
+				"RawInputCalc()\tvoid"
+			],
+			[
+				"Clim",
+				"Climb()\tvoid"
+			],
+			[
+				"eulera",
+				"eulerAngles\tVector3 { get; set; }"
+			],
+			[
+				"groundI",
+				"groundInfo\tRaycastHit2D"
+			],
+			[
+				"rayca",
+				"Raycast(Vector2 origin, Vector2 direction)\tRaycastHit2D"
+			],
+			[
+				"Phys",
+				"Physics2D\tPhysics2D"
+			],
+			[
+				"Trans",
+				"Translate(Vector3 translation)\tvoid"
+			],
+			[
+				"mono",
+				"MonoBehaviour\tMonoBehaviour"
+			],
+			[
+				"moveAc",
+				"moveInputVertical\tfloat"
+			],
+			[
+				"GetAxis",
+				"GetAxisRaw(string axisName)\tfloat"
+			],
+			[
+				"cl",
+				"climbSpeed\tfloat"
+			],
+			[
+				"input",
+				"moveInputVertical\tfloat"
+			],
+			[
+				"GetAx",
+				"GetAxis(string axisName)\tfloat"
+			],
+			[
+				"Physi",
+				"Physics2D"
+			],
+			[
+				"Rayca",
+				"RaycastHit2D\tRaycastHit2D"
+			],
+			[
+				"Vector",
+				"Vector2(float x, float y)\tVector2(float x, float y)"
+			],
+			[
+				"whatis",
+				"whatisLadder"
+			],
+			[
+				"Raycas",
+				"Raycast(Vector2 origin, Vector2 direction)\tRaycastHit2D"
+			],
+			[
+				"Pla",
+				"PlatformEffector2D"
+			],
+			[
+				"extra",
+				"extraJumpsValue"
+			],
+			[
+				"vec",
+				"Vector2\tVector2"
+			],
+			[
+				"Overla",
+				"OverlapCircle(Vector2 point, float radius)\tCollider2D"
+			],
+			[
+				"check",
+				"checkRadius"
+			],
+			[
+				"Overp",
+				"OverlapCircle(Vector2 point, float radius)\tCollider2D"
+			],
+			[
+				"is",
+				"isGrounded"
+			],
+			[
+				"trans",
+				"Transform\tTransform"
+			],
+			[
+				"fl",
+				"Flip()\tvoid"
+			],
+			[
+				"GetCo",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"en",
+				"endPos"
+			],
+			[
+				"sta",
+				"startPos"
+			],
+			[
+				"path",
+				"pathIndex"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"Reque",
+				"RequestPathfind(Block start, Block target)\tvoid"
+			],
+			[
+				"Pathf",
+				"PathfinderMaster\tPathfinderMaster"
+			],
+			[
+				"C",
+				"Count\tint { get; }"
+			],
+			[
+				"PathfinderM",
+				"PathfinderMaster.PathCompleteCallback"
+			],
+			[
+				"Path",
+				"PathFinder"
+			],
+			[
+				"GetNei",
+				"GetNeighbour(Block adjBlock, Block currentBlock)\tBlock"
+			],
+			[
+				"GetN",
+				"GetNeighbours"
+			],
+			[
+				"GetNeigh",
+				"GetNeighbors"
+			],
+			[
+				"GetBlo",
+				"GetBlockFromWorldPosition(Vector3 wp)\tBlock"
+			],
+			[
+				"current",
+				"currentBlock"
+			],
+			[
+				"chun",
+				"chunkSizeZ"
+			],
+			[
+				"chu",
+				"chunkSizeX"
+			],
+			[
+				"worl",
+				"worldZ"
+			],
+			[
+				"max",
+				"maxY\tint"
+			],
+			[
+				"curre",
+				"currentBlock\tBlock"
+			],
+			[
+				"FindPathA",
+				"FindPathActual(Block start, Block target)\tList<Block>"
+			],
+			[
+				"world",
+				"worldPosition\tVector3"
+			],
+			[
+				"get",
+				"GetFirstSolidBlock()\tBlock"
+			],
+			[
+				"Meas",
+				"MeshData()\tMeshData()"
+			],
+			[
+				"target",
+				"targetPosition\tVector3"
+			],
+			[
+				"ma",
+				"maxY\tint"
+			],
+			[
+				"ca",
+				"Calculate(WorldChunkStats stats, Vector3 noisePosition)\tint"
+			],
+			[
+				"noise",
+				"noisePatterns\tNoiseBase[]"
+			],
+			[
+				"targetP",
+				"targetPosition.z"
+			],
+			[
+				"chunk",
+				"chunkPosition"
+			],
+			[
+				"c",
+				"chunk_z"
+			],
+			[
+				"chuk",
+				"chunkSizeZ"
+			],
+			[
+				"ch",
+				"chunk_Z"
+			],
+			[
+				"Fll",
+				"FloorToInt(float f)\tint"
+			],
+			[
+				"Block",
+				"Block[,,]grid"
+			],
+			[
+				"FindMou",
+				"FindMousePosition()\tvoid"
+			],
+			[
+				"GetMouse",
+				"GetMouseButtonDown(int button)\tbool"
+			],
+			[
+				"CreateBox",
+				"CreateBox(Vector3 pos)\tvoid"
+			],
+			[
+				"ray",
+				"Raycast(Vector3 origin, Vector3 direction)\tbool"
+			],
+			[
+				"targetPosi",
+				"targetPosition"
+			],
+			[
+				"World",
+				"worldPosition\tVector3"
+			],
+			[
+				"CreateB",
+				"CreateBox(Vector3 pos)\tvoid"
+			],
+			[
+				"GetBlock",
+				"GetBlock(Vector3 wp, Vector3 cp)\tBlock"
+			],
+			[
+				"chunks",
+				"chunkSizeZ"
+			],
+			[
+				"FLoo",
+				"FloorToInt(float f)\tint"
+			],
+			[
+				"FL",
+				"FloatToHalf(float val)\tushort"
+			],
+			[
+				"chunkS",
+				"chunkSizeX"
+			],
+			[
+				"data",
+				"data.chunk_X"
+			],
+			[
+				"Chun",
+				"Chunk(int x, int y, int z, int maxX, int maxY, int maxZ, Block[,,] grid)\tChunk(int x, int y, int z, int maxX, int maxY, int maxZ, Block[,,] grid)"
+			],
+			[
+				"Chu",
+				"Chunk[,,]\tChunk[,,]"
+			],
+			[
+				"Vector3",
+				"Vector3()\tVector3()"
+			],
+			[
+				"switch",
+				"switch\t[class]"
+			],
+			[
+				"basenoi",
+				"baseNoiseHeight\tfloat"
+			],
+			[
+				"Noise",
+				"NoiseBase\tNoiseBase"
+			],
+			[
+				"AddC",
+				"AddComponent<T>()\tT"
+			],
+			[
+				"Request",
+				"RequestWorldGeneration(Vector3 o)\tvoid"
+			],
+			[
+				"CreateW",
+				"CreateWorld()\tvoid"
+			],
+			[
+				"base",
+				"baseNoise\tfloat"
+			],
+			[
+				"Mesh",
+				"MeshData"
+			],
+			[
+				"Create",
+				"CreateWorld()\tMeshData"
+			],
+			[
+				"Load",
+				"LoadBlock(MeshData d, World w)\tvoid"
+			],
+			[
+				"o",
+				"o\tVector3"
+			],
+			[
+				"face",
+				"FaceNorth(MeshData d, Vector3 o)\tvoid"
+			],
+			[
+				"Bl",
+				"Block[,,]\tBlock[,,]"
+			],
+			[
+				"Reca",
+				"RecalculateNormals()\tvoid"
+			],
+			[
+				"AddUv",
+				"AddUvs(MeshData d)\tvoid"
+			],
+			[
+				"floor",
+				"FloorToInt(float f)\tint"
+			],
+			[
+				"Floor",
+				"FloorToInt(float f)\tint"
+			],
+			[
+				"Mes",
+				"Mesh()\tMesh()"
+			],
+			[
+				"AddRange",
+				"AddRange(IEnumerable<T> collection)\tvoid"
+			],
+			[
+				"Mono",
+				"MonoBehaviour\tMonoBehaviour"
+			],
+			[
+				"AddRa",
+				"AddRange(IEnumerable<T> collection)\tvoid"
+			],
+			[
+				"AddR",
+				"AddRange(IEnumerable<T> collection)\tvoid"
+			],
+			[
+				"Exe",
+				"Execute()\tvoid"
+			],
+			[
+				"loca",
+				"localRotation\tQuaternion { get; set; }"
+			],
+			[
+				"getComp",
+				"GetComponentInChildren<T>()\tT"
+			],
+			[
+				"MAth",
+				"Mathf\tMathf"
+			],
+			[
+				"Transf",
+				"TransformVariable\tTransformVariable"
+			],
+			[
+				"angula",
+				"angularDrag\tfloat { get; set; }"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"movement",
+				"movementValues\tMovementValues"
+			],
+			[
+				"State",
+				"StateManager\tStateManager"
+			],
+			[
+				"Draw",
+				"DrawRay(Vector3 start, Vector3 dir)\tvoid"
+			],
+			[
+				"Getcom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"ro",
+				"rotation\tQuaternion { get; set; }"
+			],
+			[
+				"normali",
+				"Normalize()\tvoid"
+			],
+			[
+				"Rigidbody",
+				"RigidbodyConstraints\tRigidbodyConstraints"
+			],
+			[
+				"Seril",
+				"Serializable\t[class]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/Player/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 4332,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"NOVA",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 564.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel Zamora/ProjectObsidian/Assets"
+	],
+	"file_history":
+	[
+		"/C/Users/Daniel Zamora/TreeClicker/Assets/Micaiah_Stevens_TreeChopping/Scripts/DropGO.cs",
+		"/C/Users/Daniel Zamora/Documents/GitHub/Skotos/Assets/Scripts/Intro/LabsDoorEnter.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/GrassInteraction/Scripts/InteractionHolder.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/SSA_LP_TREE/Scripts/InteractionRadius.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/SSA_LP_TREE/InteractionHolder.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/SSA_LP_TREE/Scripts/InteractionHolder.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/GrassInteraction/Scripts/InteractionRadius.cs",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/SSA_LP_TREE/Shaders/InteractiveGrass.shader",
+		"/C/Users/Daniel Zamora/TreeChop/Assets/Micaiah_Stevens_TreeChopping/SSA_LP_TREE/EnvironmentShader.shader",
+		"/c/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/PlayerMovement.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/RPG_Alpha/Assets/Scripts/ModelScripts/WalkingController.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/RPG_Alpha/Assets/Scripts/View Scripts/FacingSphere.cs",
+		"/C/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/Patrol.cs",
+		"/C/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/PlayerController.cs",
+		"/c/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/PlayerMovement.cs",
+		"/C/Users/Daniel Zamora/ProjectObsidian/ProjectObsidian.sublime-project",
+		"/C/Users/Daniel Zamora/ProjectObsidian/Assets/Scripts/VerticalPlatform.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UIPropertyUpdater.cs",
+		"/C/Program Files (x86)/Image-Line/Image-Line - FL Studio 12.5.1.5 Signature Bundle, All FL Studio Plugins, x86 x64 (FiXED, PATCHED, r4e) [17.10.2017].txt",
+		"/C/Users/Daniel Zamora/AppData/Local/Temp/7zO44091506/Image-Line - FL Studio 12.5.1.5 Signature Bundle, All FL Studio Plugins, x86 x64 (FiXED, PATCHED, r4e) [17.10.2017].txt",
+		"/C/Users/Daniel Zamora/Desktop/Warcraft III/Patch.txt",
+		"/C/Users/Daniel Zamora/Desktop/Warcraft III/CustomKeyInfo.txt",
+		"/C/Users/Daniel Zamora/Desktop/Warcraft III/License.txt",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UpdateText.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/StateManager.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/Mono Actions/InputButton.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/Helpers/AssignTransform.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UpdateButtonInteractability.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UpdateImage.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UpdateSlider.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/UI/UpdateToggle.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/StateNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/TransitionNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/Custom Inspectors/StateGUI.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/DrawNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/BaseNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Transition.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/ActionHook.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/Conditions/Condition.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/Mono Actions/Action.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/Mono Actions/InputAxis.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/State Actions/StateActions.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior/State.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/BehaviorEditor.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/EditorSettings.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/CommentNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorEditor/Nodes/PortalNode.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Editor/BehaviorGraph.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/State Actions/MovementForward.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/MovementVariables.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Scriptables/Events.meta",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Scripts/Behavior.meta",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/Chunk.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/WorldGeneration.cs",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/World.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/PathFinding/PathfinderMaster.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Units/Unit.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Managers/PlayerInteractions.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/PathFinding/Pathfinder.cs",
+		"/C/Users/Daniel Zamora/ProjectVermillion/Assets/Art/Shaders/ToonLit.shader",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/World.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/PathFinding/PathFinder.cs",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/PathFinding/PathFinder.cs",
+		"/C/Users/Daniel Zamora/Downloads/World.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Block/Block.cs",
+		"/C/Users/Daniel Zamora/Downloads/Chunk.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/MeshData.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/WorldChunkStats.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/Chunk.cs",
+		"/C/Users/Daniel Zamora/AppData/Local/Temp/Chunk.cs",
+		"/C/Users/Daniel Zamora/AppData/Local/Temp/World.cs",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Managers/PlayerInteractions.cs",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Block/Block.cs",
+		"/c/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/WorldGeneration.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/NoisePasses/Frequency.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/NoisePasses/BaseNoise.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/NoisePasses/NoiseBase.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/MeshUtilities.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/Enums.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/Tile.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Interfaces.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/WolrdChunkStats.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Art/Shaders/WorldShaderV01.shader",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/World/Noise.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/MeshCreator.cs",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/MeshUtilities",
+		"/C/Users/Daniel Zamora/ProjectIndigo/Assets/Scripts/Mesh/MeshUtilites",
+		"/C/Users/Daniel Zamora/ProjectIndigo/ProjectIndigo.sublime-project",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/StateManager.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/MovementAnimations.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/RotateBasedOnCamera.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/IsGrounded.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/RotateViaInput.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/InputUpdater.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/InputManager.cs",
+		"/C/Users/Daniel Zamora/AppData/Local/Temp/7zO01079E57/LICENSE.txt",
+		"/C/Users/Daniel Zamora/AppData/Local/Temp/Temp1_AvorionSoundMod.V1.0 by Xavanux.zip/AvorionSoundMod.V1.0 by Xavanux/README.txt",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/InputUpdated.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/ActionHook.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Scriptables/Helpers/AssignTransform.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/OnEnableAssignStateManager.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/MoveForward.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Scriptables/Variables/StateVariable.cs",
+		"/c/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Behavior/State Actions/IsGrounded.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Utilities/InputManager.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Data/Actions/InputManager.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/ActionHook.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/TPSA01.sublime-project",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scripts/Transition.cs",
+		"/C/Users/Daniel Zamora/TPS_A01/",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/TPS_A01.sublime-project",
+		"/C/Users/Daniel Zamora/TPS_A01/Assets/Scriptables/Helpers/AssignTransform.cs",
+		"/C/Users/Daniel Zamora/New Unity Project/Assets/Behavior_Editor/Assets/Scripts/Behavior/Actions/FollowTransform.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/Editors/BehaviorEditor/BehaviorEditor.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/StrategyPatternSystem/ActionHook.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/StrategyPatternSystem/State.cs",
+		"/C/Users/Daniel Zamora/New Unity Project/Assets/Behavior_Editor/Assets/Scripts/Behavior/Actions/AssignTransform.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/Editors/Custom Inspectors/StateGUI.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/Editors/BehaviorEditor/EditorSettings.cs",
+		"/c/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/Editors/BehaviorGraph.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/Editors/BehaviorGraph.cs",
+		"/C/Users/Daniel Zamora/New Unity Project/Assets/Behavior_Editor/Assets/Scripts/Behavior/ActionHook.cs",
+		"/C/Users/Daniel Zamora/New Unity Project/Assets/Behavior_Editor/Assets/Scripts/ActionHook.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/StrategyPatternSystem/StateManager.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/ScriptableObjectLibrary/Scriptables/Helpers/AssignTransform_REDACT.cs",
+		"/C/Users/Daniel Zamora/Documents/Unity/HacknSlash_Redux/Assets/Scripts/StrategyPatternSystem/Actions/AssignTransform.cs"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\Users\\Daniel Zamora\\ProjectVermillion\\Assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"moveInput",
+			"SO.",
+			"SO",
+			"SO.",
+			"using SO;",
+			"using SA;",
+			"SA.",
+			"SA",
+			"namespace SA",
+			"namespace SA;",
+			"using SO;",
+			"namespace SA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"moveInputHorizontal",
+			"PV.",
+			"using PV;",
+			"namespace PV",
+			"namespace PV;",
+			"using PV;",
+			"namespace PV"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/Player/PlayerController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"1317,1318": "Comparison with 'false' is redundant",
+								"1399,1400": "Comparison with 'true' is redundant",
+								"1599,1600": "Comparison with 'true' is redundant",
+								"1793,1794": "Comparison with 'true' is redundant",
+								"1983,1985": "Convert to '&=' expresssion",
+								"2102,2103": "Comparison with 'true' is redundant",
+								"232,242": "Name should have prefix '_'. (Rule 'Fields').",
+								"2351,2352": "Comparison with 'true' is redundant",
+								"2588,2590": "Convert to '|=' expresssion",
+								"26,31": "Using directive is not used by code and can be removed safely.",
+								"2708,2710": "Convert to '&=' expresssion",
+								"2814,2815": "Comparison with 'true' is redundant",
+								"287,292": "Name should have prefix '_'. (Rule 'Fields').",
+								"309,319": "Name should have prefix '_'. (Rule 'Fields').",
+								"336,346": "Name should have prefix '_'. (Rule 'Fields').",
+								"371,373": "Name should have prefix '_'. (Rule 'Fields').",
+								"418,429": "Name should have prefix '_'. (Rule 'Fields').",
+								"472,483": "Name should have prefix '_'. (Rule 'Fields').",
+								"500,511": "Name should have prefix '_'. (Rule 'Fields').",
+								"532,544": "Name should have prefix '_'. (Rule 'Fields').",
+								"565,577": "Name should have prefix '_'. (Rule 'Fields').",
+								"620,629": "The private field 'direction' is never assigned",
+								"677,692": "Name should have prefix '_'. (Rule 'Fields').",
+								"709,717": "Name should have prefix '_'. (Rule 'Fields').",
+								"734,743": "Name should have prefix '_'. (Rule 'Fields').",
+								"760,768": "Name should have prefix '_'. (Rule 'Fields').",
+								"785,794": "Name should have prefix '_'. (Rule 'Fields').",
+								"811,819": "Name should have prefix '_'. (Rule 'Fields').",
+								"836,849": "Name should have prefix '_'. (Rule 'Fields')."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "ProjectObsidian.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Daniel Zamora\\Documents\\GitHub\\Skotos\\Skotos.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
